@@ -1,0 +1,16 @@
+article {
+    float: center;
+    background-color: #fcfcfa;
+    border: 5px #cdb474 double;
+}
+.login {
+    padding: 356px;
+    text-align: center;
+    background-image: url(img/fundo.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+form {
+    display: flexbox;
+}
